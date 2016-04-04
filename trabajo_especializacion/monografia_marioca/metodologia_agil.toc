@@ -1,0 +1,17 @@
+\select@language {spanish}
+\contentsline {section}{\numberline {1}INTRODUCCI\IeC {\'O}N}{5}
+\contentsline {section}{\numberline {2}HIP\IeC {\'O}TESIS}{6}
+\contentsline {section}{\numberline {3}OBJETIVOS}{7}
+\contentsline {subsection}{\numberline {3.1}Objetivo General}{7}
+\contentsline {subsection}{\numberline {3.2}Objetivos Espec\IeC {\'\i }ficos}{7}
+\contentsline {section}{\numberline {4}HISTORIA DE LOS PROCESOS DE DESARROLLO}{8}
+\contentsline {section}{\numberline {5}\textbf {DESARROLLO \IeC {\'A}GIL}}{9}
+\contentsline {subsection}{\numberline {5.1}\IeC {\textquestiondown }Que es?}{9}
+\contentsline {subsection}{\numberline {5.2}\IeC {\textquestiondown }Quien lo hace?}{9}
+\contentsline {subsection}{\numberline {5.3}\IeC {\textquestiondown }Porque es importante?}{9}
+\contentsline {subsection}{\numberline {5.4}\IeC {\textquestiondown }Cuales son los pasos?}{9}
+\contentsline {subsection}{\numberline {5.5}\IeC {\textquestiondown }Cual es el producto obtenido?}{10}
+\contentsline {subsection}{\numberline {5.6}\IeC {\textquestiondown }Como puedo estar seguro de lo que he hecho correctamente.?}{10}
+\contentsline {subsection}{\numberline {5.7}\IeC {\textquestiondown }Que es la agilidad?}{10}
+\contentsline {section}{\numberline {6}\textbf {METODOLOG\IeC {\'I}AS \IeC {\'A}GILES}}{11}
+\contentsline {section}{\numberline {7}Conclusi\IeC {\'o}n}{13}

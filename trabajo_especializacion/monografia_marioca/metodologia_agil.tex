@@ -1,0 +1,42 @@
+\documentclass[a4paper,11pt]{article}
+\usepackage[utf8]{inputenc}
+\usepackage[spanish]{babel}
+\usepackage{framed, color}
+\usepackage{textcomp}
+\usepackage{vmargin}
+\usepackage{graphicx}
+\usepackage[table,xcdraw]{xcolor}
+\setpapersize{A4}
+\setmargins
+{2.5cm}            % margen izquierdo
+{1.5cm}            % margen superior
+{16.5cm}           % anchura del texto
+{23.42cm}          % altura del texto
+{10pt}             % altura de los encabezados
+{1cm}              % espacio entre el texto y los encabezados
+{0pt}              % altura del pie de página
+{2cm}              % espacio entre el texto y el pie de página
+\begin{document}
+	\include{capitulos/caratula}
+	\tableofcontents
+	\newpage
+	\listoffigures
+	\newpage
+	\listoftables
+	\newpage
+	\include{capitulos/abstract}
+	\newpage
+	\include{capitulos/introduccion}
+	\newpage
+	\include{capitulos/hipotesis}
+	\newpage
+	\include{capitulos/objetivos}
+	\newpage
+	\include{capitulos/seccion1_historia}
+	\include{capitulos/seccion2_desarrolloagil}
+	\include{capitulos/seccion3_metodologia_agil}
+	\newpage
+	\include{capitulos/conclusion}
+	\newpage
+	\include{capitulos/bibliografia}
+\end{document}
